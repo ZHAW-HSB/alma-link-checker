@@ -1,7 +1,7 @@
 # Alma Link Checker
 
 ## About
-The Alma Link Checker is an utility tool programmed and maintained by the Zurich University Library of Applied Sciences. The goal of this tool is to provide an easy and streamlined way to update broken links in local electronic databases and portfolios in Alma. To make this work, it uses an Alma API key
+The Alma Link Checker is an utility tool programmed and maintained by the Zurich University Library of Applied Sciences. The goal of this tool is to provide an easy and streamlined way to update broken links in local electronic databases and portfolios in Alma.
 
 ## Technologies
 
@@ -45,11 +45,11 @@ composer install
 
 | Files  | Option(s) |
 | ------------- |:-------------:|
-| configuration.php    | configurations    |
-| src/Application.php      | application logic    |
-| resources/*     | html templates & translations   |
-| public/css/style.css     | style customizations    |
-| public/js/index.js     |  ui customizations    |
+| configuration.php    | configurations                 |
+| src/Application.php  | application logic              |
+| resources/*          | html templates & translations  |
+| public/css/style.css | style customizations           |
+| public/js/index.js   | ui customizations              |
 
 ## Broken Link Update Options
 
@@ -78,6 +78,6 @@ As the link checks may take several minutes (depending on the amount of broken l
 
 ## Screenshots
 
-![Start View](/public/assets/screenshots/screenshot-1.png?raw=true "Start View")
+![Start View](/public/assets/screenshots/preview-screenshot-1.png?raw=true "Start View")
 
-![Link List View](/public/assets/screenshots/screenshot-2.png?raw=true "Link List View")
+![Link List View](/public/assets/screenshots/preview-screenshot-2.png?raw=true "Link List View")
