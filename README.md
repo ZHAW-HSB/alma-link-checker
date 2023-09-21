@@ -1,7 +1,7 @@
 # Alma Link Checker
 
 ## About
-The Alma Link Checker is an utility tool programmed and maintained by the Zurich University Library of Applied Sciences. The goal of this tool is to provide an easy and streamlined way to update broken links in local electronic databases and portfolios in Alma.
+The Alma Link Checker is an utility tool programmed and maintained by the Zurich University Library of Applied Sciences. The goal of this tool is to provide an easy and streamlined way to update broken links of local electronic databases and portfolios in Alma.
 
 ## Technologies
 
