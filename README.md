@@ -60,7 +60,7 @@ composer install
 
 **Configuration**
 
-* Languages can be configured in configuration.php. 
+* Languages can be configured in configuration.php
 * Labels can be set in translations/*
 * Fallback language is "de"
 * Pre-configured languages are de, en, fr, it
@@ -74,7 +74,7 @@ LanguageService::getLabel("language_key");
 
 ## Cache Support
 
-As the link checks may take several minutes (depending on the amount of broken links), a cache file will be generated after each check in the cache/* directory. The cache file can be deleted if no longer required
+As the link checks may take several minutes (depending on the amount of broken links), a cache file will be generated after each check in the cache/* directory. The cache file can be deleted if no longer required.
 
 ## Screenshots
 
